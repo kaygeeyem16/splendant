@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "splendantsolutions.com",
+  "Id": "cbe078fc-8210-42d3-a5f9-e3d992549254"
+}
